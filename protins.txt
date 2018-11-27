@@ -1,3 +1,6 @@
 apple
 computer
 juice
+table
+milk
+biscuits
