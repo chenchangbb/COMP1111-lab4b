@@ -1,6 +1,9 @@
 computers
 cellphone
-table lamp
+orange
 apple
 cherry
 pear
+pineapple
+strawberry
+banana
