@@ -1,3 +1,6 @@
 computers
 cellphone
 table lamp
+apple
+cherry
+pear
