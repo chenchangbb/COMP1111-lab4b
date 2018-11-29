@@ -1,6 +1,9 @@
 water
-juice
+cola
 cocke
 apple juice
 watermelon juice
 purple juice
+banana
+orange juice
+grape juice
