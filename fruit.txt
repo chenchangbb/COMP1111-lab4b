@@ -1,6 +1,6 @@
 computers
 cellphone
 table lamp
-apple123
-cherry123
-pear123
+apple
+cherry
+pear
